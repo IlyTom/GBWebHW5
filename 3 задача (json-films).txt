@@ -1,0 +1,44 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "name": "Сядь за руль моей машины",
+      "yearOfProduction": "2021",
+      "genre": "Драма",
+      "director": "Рюсукэ Хамагути",
+      "countryOfProduction": "Япония"
+    },
+    {
+      "id": "2",
+      "name": "Блондинка",
+      "yearOfProduction": "2022",
+      "genre": "Биография, драма",
+      "director": "Эндрю Доминик",
+      "countryOfProduction": "США"
+    },
+    {
+      "id": "3",
+      "name": "На Западном фронте без перемен",
+      "yearOfProduction": "2022",
+      "genre": "Военный",
+      "director": "Эдвард Бергер",
+      "countryOfProduction": "Германия"
+    },
+    {
+      "id": "4",
+      "name": "Оторви и выбрось",
+      "yearOfProduction": "2021",
+      "genre": "Комедия",
+      "director": "Кирилл Соколов",
+      "countryOfProduction": "Россия"
+    },
+    {
+      "id": "1",
+      "name": "Главная роль",
+      "yearOfProduction": "2021",
+      "genre": "Драма",
+      "director": "Мариано Кон",
+      "countryOfProduction": "Испания"
+    }
+  ]
+}
